@@ -1,0 +1,70 @@
+{
+  "name": "mon-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fullcalendar/daygrid": "^5.9.0",
+    "@fullcalendar/interaction": "^5.9.0",
+    "@fullcalendar/react": "^5.9.0",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "DatePicker": "^2.0.0",
+    "antd": "^4.16.10",
+    "axios": "^0.21.1",
+    "chart.js": "^3.7.1",
+    "chartjs-plugin-datalabels": "^2.0.0",
+    "dateformat": "^4.5.1",
+    "google-map-react": "^2.1.10",
+    "jsonwebtoken": "^8.5.1",
+    "jspdf": "^2.3.1",
+    "react": "^17.0.2",
+    "react-animated-modal": "^1.1.1",
+    "react-bootstrap": "^1.6.1",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-chartjs-2": "^3.0.4",
+    "react-datepicker": "^4.7.0",
+    "react-datetime": "^3.0.4",
+    "react-dom": "^17.0.2",
+    "react-google-login": "^5.2.2",
+    "react-loader-spinner": "^4.0.0",
+    "react-loading": "^2.0.3",
+    "react-modal": "^3.14.3",
+    "react-paginate": "^8.1.2",
+    "react-responsive-carousel": "^3.2.21",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-slick": "^0.28.1",
+    "react-to-print": "^2.14.4",
+    "react-toastify": "^7.0.4",
+    "slick-carousel": "^1.8.1",
+    "sweetalert2": "^11.1.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
